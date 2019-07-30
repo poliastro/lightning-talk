@@ -4,6 +4,6 @@ channels:
 - defaults
 dependencies:
 - python=3.7
-- poliastro=0.11
+- poliastro=0.13
 - conda-forge::numpy
 - rise
