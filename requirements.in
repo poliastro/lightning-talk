@@ -1,0 +1,4 @@
+ipywidgets
+jupyterlab
+poliastro==0.15.2
+rise
