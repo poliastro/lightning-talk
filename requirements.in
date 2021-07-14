@@ -1,3 +1,4 @@
+ipywidgets
 jupyterlab
-poliastro==0.15.1
+poliastro==0.15.2
 rise
